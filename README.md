@@ -10,4 +10,4 @@ All rights reserved.
 Please see `LICENSE` for further license instructions.
 
 ## Publications
-A. Rezaei Shahmirzadi, A. Moradi (2021): [Second-Order SCA Security with almost no Fresh Randomness](TCHES 2021, Issue 3)
+A. Rezaei Shahmirzadi, A. Moradi (2021): "Second-Order SCA Security with almost no Fresh Randomness" (TCHES 2021, Issue 3)
